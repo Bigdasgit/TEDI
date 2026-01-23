@@ -12,5 +12,3 @@ Execute the following command:
 
 ```bash
 python3 3step_PFD.py
-markdown
-코드 복사
