@@ -5,7 +5,7 @@ This repository contains the implementation of our paper
 
 ## Getting Started
 
-## Training
+### Training
 
 Training can be performed by running a single file.  
 Execute the following command:
